@@ -1,0 +1,11 @@
+body {
+    background: center white url("images/background.jpg") no-repeat;
+}
+
+li::marker {
+    color: white;
+}
+
+li a {
+    color: green;
+}
